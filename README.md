@@ -1,5 +1,5 @@
 # Gun_Roulette
-AUTHOR: GALAXYloveTan
+AUTHOR: GALAXYloveTan\n
 This work is a terminal version modeled after the Buckshot Rollette.
 It will not be used for commercial purposes and is strictly forbidden to be used for commercial purposes, and those who violate it will be responsible for the consequences.
 Introduction:
